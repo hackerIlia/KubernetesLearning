@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\bin\Debug\net8.0\KubernetesApp.exe
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\bin\Debug\net8.0\KubernetesApp.deps.json
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\bin\Debug\net8.0\KubernetesApp.runtimeconfig.json
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\bin\Debug\net8.0\KubernetesApp.dll
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\bin\Debug\net8.0\KubernetesApp.pdb
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.AssemblyInfo.cs
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.dll
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\refint\KubernetesApp.dll
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.pdb
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\KubernetesApp.genruntimeconfig.cache
+C:\Users\User\Desktop\learning\k8s\KubernetesApp\KubernetesApp\obj\Debug\net8.0\ref\KubernetesApp.dll
